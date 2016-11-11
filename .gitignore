@@ -1,0 +1,7 @@
+*~
+legacy/ 
+output/* 
+cifar/*
+.idea/*
+.ipynb_checkpoints/*
+release/cifar/*
